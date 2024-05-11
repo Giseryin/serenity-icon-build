@@ -1,0 +1,27 @@
+<svg width="20.000000" height="20.000000" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g opacity="0.600000">
+		<mask id="path-1-inside-1" fill="white">
+			<path id="形状结合" d="M10.5 2L9.5 2L9.5 6L10.5 6L10.5 2ZM6.79399 17.3465L7.73369 17.6885L9.10176 13.9298L8.16208 13.5878L6.79399 17.3465Z" clip-rule="evenodd" fill-rule="evenodd" fill-opacity="0.000000"/>
+		</mask>
+		<path id="形状结合" d="M10.5 2L9.5 2L9.5 6L10.5 6L10.5 2ZM6.79399 17.3465L7.73369 17.6885L9.10176 13.9298L8.16208 13.5878L6.79399 17.3465Z" clip-rule="evenodd" fill-rule="evenodd" fill="#000000" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.800000">
+		<mask id="path-1-inside-1" fill="white">
+			<path id="形状结合" d="M15.5253 4.19305L14.7593 3.55026L12.1881 6.61444L12.9542 7.25723L15.5253 4.19305ZM12.2663 17.6886L13.206 17.3466L11.8379 13.5878L10.8982 13.9298L12.2663 17.6886Z" clip-rule="evenodd" fill-rule="evenodd" fill-opacity="0.000000"/>
+		</mask>
+		<path id="形状结合" d="M15.5253 4.19305L14.7593 3.55026L12.1881 6.61444L12.9542 7.25723L15.5253 4.19305ZM12.2663 17.6886L13.206 17.3466L11.8379 13.5878L10.8982 13.9298L12.2663 17.6886Z" clip-rule="evenodd" fill-rule="evenodd" fill="#000000" fill-opacity="1.000000"/>
+	</g>
+	<mask id="path-1-inside-1" fill="white">
+		<path id="形状结合" d="M17.9653 9.10321L17.7916 8.11841L13.8524 8.81299L14.026 9.79782L17.9653 9.10321ZM16.6782 14.433L17.1782 13.567L13.7141 11.567L13.2141 12.433L16.6782 14.433Z" clip-rule="evenodd" fill-rule="evenodd" fill-opacity="0.000000"/>
+	</mask>
+	<path id="形状结合" d="M17.9653 9.10321L17.7916 8.11841L13.8524 8.81299L14.026 9.79782L17.9653 9.10321ZM16.6782 14.433L17.1782 13.567L13.7141 11.567L13.2141 12.433L16.6782 14.433Z" clip-rule="evenodd" fill-rule="evenodd" fill="#000000" fill-opacity="1.000000"/>
+	<g opacity="0.300000">
+		<mask id="path-1-inside-1" fill="white">
+			<path id="形状结合" d="M5.24072 3.55026L4.47467 4.19305L7.04582 7.25723L7.81187 6.61444L5.24072 3.55026ZM2.82179 13.567L3.32179 14.433L6.78589 12.433L6.28589 11.567L2.82179 13.567Z" clip-rule="evenodd" fill-rule="evenodd" fill-opacity="0.000000"/>
+		</mask>
+		<path id="形状结合" d="M5.24072 3.55026L4.47467 4.19305L7.04582 7.25723L7.81187 6.61444L5.24072 3.55026ZM2.82179 13.567L3.32179 14.433L6.78589 12.433L6.28589 11.567L2.82179 13.567Z" clip-rule="evenodd" fill-rule="evenodd" fill="#000000" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.100000">
+		<rect id="矩形" x="2.034714" y="9.103210" width="1.000000" height="4.000000" transform="rotate(-80 2.034714 9.103210)" fill="#000000"/>
+	</g>
+</svg>
